@@ -1,5 +1,3 @@
 This is the second file
-
 I am an administrate
-
 I am edited this file to check the pull option/User
