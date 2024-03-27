@@ -6,4 +6,4 @@ Hi this is admin....!
 
 This file is edited from main branch
 
-This file is edited from firstBranch-->conflict check
+This file is edited from firstBranch and mainBranch
