@@ -7,3 +7,5 @@ Hi I am added this line to check the pull option/Adminstrate- Once again edited
 text line added in 6th line/Admin
 
 this file edited from firstBranch
+
+this file edited from firstBranch-->Conflict
